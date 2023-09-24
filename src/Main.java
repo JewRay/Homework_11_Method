@@ -65,6 +65,8 @@ class Main {
         System.out.println(infoText);
     }
 
+    //Задача 3
+
     public static int calculateDeliveryTime() {
         System.out.println("Укажите дистанцию от офиса до места доставки в км:");
         int distance = sc.nextInt();
